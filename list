@@ -4,4 +4,12 @@ Local
 
 Remote
 
-myadroit home/cg6622/
+
+myadroit /home/cg6622/ MaxLim 10G
+
+
+
+myadroit /scratch/network/cg6622/ MaxLim 100G
+
+
+
