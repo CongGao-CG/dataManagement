@@ -13,15 +13,15 @@ mydella /home/cg6622/ MaxLim 50G
 
 
 
-mydella /scratch/gpfs/cg6622 MaxLim 1T
+mydella /scratch/gpfs/cg6622/ MaxLim 1T
 
 
 
-mydella /scratch/gpfs/NLIN MaxLim 20T
+mydella /scratch/gpfs/NLIN/ MaxLim 20T
 
 
 
-mydella /projects/NLIN MaxLim 40T
+mydella /projects/NLIN/ MaxLim 40T
 
 
 
@@ -32,4 +32,9 @@ myadroit /home/cg6622/ MaxLim 10G
 myadroit /scratch/network/cg6622/ MaxLim 100G
 
 
-sy
+
+sy /dssg/home/acct-ioozl/ioozl-user4/
+
+
+
+
