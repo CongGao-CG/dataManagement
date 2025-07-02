@@ -33,11 +33,16 @@ myadroit /scratch/network/cg6622/ MaxLim 100G
 
 
 
-pi
+pi /lustre/home/acct-ioozl/ioozl-user4/ accessible at pilog (pi)data
 
 
 
-sy
+pi /scratch/home/acct-ioozl/ioozl-user4/ accessible at pilog
 
 
 
+sy /dssg/home/acct-ioozl/ioozl-user4/ accessbile at sylog, sydata, (pi)data
+
+
+
+archive /archive/home/acct-ioozl/share/ accessbile at sydata, (pi)data
