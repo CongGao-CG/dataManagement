@@ -43,7 +43,8 @@ pi /scratch/home/acct-ioozl/ioozl-user4/ accessible at pilog
 
 sy /dssg/home/acct-ioozl/ioozl-user4/ accessbile at sylog, sydata, (pi)data
 
-
+  GLORYS                TC-centric data                              6.3T 
+  GLORYSdailynoaa       from NOAA  199301 to 202106 342M   thetao so                   
 
 archive /archive/home/acct-ioozl/share/ accessbile at sydata, (pi)data
 
